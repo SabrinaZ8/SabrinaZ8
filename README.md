@@ -13,7 +13,7 @@ I'm from Pará, Brazil. I am currently studying systems analysis and development
 
 ## 🔗 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2B0921&color=white)](https://github.com/BynnZ8)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2B0921&color=white)]([https://github.com/BynnZ8](https://github.com/SabrinaZ8))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=2B0921&color=white)](https://www.linkedin.com/in/sabrina-souza-b74137238/)
 [![frontendmentor](https://img.shields.io/badge/frontendmentor-0077B5?style=for-the-badge&logo=frontendmentor&logoColor=2B0921&color=white)](https://www.frontendmentor.io/profile/BynnZ8)
 
