@@ -12,9 +12,6 @@ I'm from Pará, Brazil. I am currently studying systems analysis and development
 
 <section>
   <img align="center" alt="Accreditation" width="100px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-  <img align="center" alt="Accreditation" width="100px" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
-  <img align="center" alt="Accreditation" width="100px" src="https://images.credly.com/size/340x340/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
-  <img align="center" alt="Accreditation" width="100px" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png">
 </section>
 
 ## 💜 Skills
